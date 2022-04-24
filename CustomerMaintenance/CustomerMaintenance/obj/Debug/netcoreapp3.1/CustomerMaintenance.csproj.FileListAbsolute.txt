@@ -1,0 +1,8 @@
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.AssemblyReference.cache
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfoInputs.cache
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.AssemblyInfo.cs
+C:\Murach\C#\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\netcoreapp3.1\CustomerMaintenance.csproj.CoreCompileInputs.cache
